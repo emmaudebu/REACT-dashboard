@@ -1,0 +1,44 @@
+.createrecords {
+  padding: 30px;
+}
+.createrecords h4 {
+  color: #b6b6b6;
+  margin-block: 30px;
+  font-size: 20px;
+}
+.createrecords h2 {
+  font-size: 38px;
+}
+.createrecords h3 {
+  margin-bottom: 20px;
+}
+.createrecords .create-form {
+  background-color: white;
+  width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+}
+.createrecords form {
+  width: 50%;
+}
+.createrecords form input {
+  width: 120%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  height: 50px;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.createrecords form select {
+  margin-left: 50px;
+  width: 150px;
+  padding: 10px;
+  background-color: #3c91e6;
+  border: none;
+  color: black;
+  height: 50px;
+}
+.createrecords form div {
+  padding-top: 20px;
+  color: #2e2c2c;
+}/*# sourceMappingURL=Createrecords.css.map */

@@ -1,0 +1,44 @@
+.MedicalRecords{
+     padding: 30px;
+
+      h4 {
+          color: #b6b6b6;
+          margin-block: 30px;
+          font-size: 20px;
+      }
+
+      h2 {
+          font-size: 38px;
+      }
+      .table{
+        background-color: white;
+        border-radius: 10px;
+        padding: 30px;
+       
+        .title{
+            margin-bottom: 20px;
+            font-size: 20px;
+            
+        }
+    
+      }
+      table{
+        width:100%;
+        th,td{
+            padding: 10px;
+            margin-inline: 10px;
+
+        }
+        tr{
+            margin-inline: 20px;
+            padding: 10px;
+        }
+        td{
+        color: grey;
+        }
+        th{
+            border-bottom: solid grey 1px;
+        }
+      }
+}
+

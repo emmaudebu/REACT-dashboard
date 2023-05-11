@@ -1,15 +1,18 @@
 
+import SideBar from "./Components/SideBar"
+
+
 
 function App() {
   
-  
-  
-  
   return (
-    <>
+    <section className="App">
+      <SideBar />
+      {/* <BrowserRouter> */}
+                      
+                  {/* </BrowserRouter> */}
       
-       <h6><span>he</span>llo</h6>
-    </>
+    </section>
   )
 }
 

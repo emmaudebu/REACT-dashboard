@@ -1,0 +1,37 @@
+.MedicalRecords {
+  padding: 30px;
+}
+.MedicalRecords h4 {
+  color: #b6b6b6;
+  margin-block: 30px;
+  font-size: 20px;
+}
+.MedicalRecords h2 {
+  font-size: 38px;
+}
+.MedicalRecords .table {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+}
+.MedicalRecords .table .title {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.MedicalRecords table {
+  width: 100%;
+}
+.MedicalRecords table th, .MedicalRecords table td {
+  padding: 10px;
+  margin-inline: 10px;
+}
+.MedicalRecords table tr {
+  margin-inline: 20px;
+  padding: 10px;
+}
+.MedicalRecords table td {
+  color: grey;
+}
+.MedicalRecords table th {
+  border-bottom: solid grey 1px;
+}/*# sourceMappingURL=medicalrecords.css.map */
